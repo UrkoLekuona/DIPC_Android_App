@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DIPC</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_username">Username \'root\' is not allowed</string>
+    <string name="error_invalid_password">Error while signing in: Account credentials are invalid</string>
+    <string name="error_no_password">Password is required</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_connection_failed">Connection with the server could not be established</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."</string>
+    <string name="no_jobs">No active jobs for current user</string>
+    <string name="dcrab_report_fail">Unable to get DCRAB report</string>
+</resources>
